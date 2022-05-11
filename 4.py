@@ -22,3 +22,15 @@ elif avg>=40:
     print('C')
 else:
     print('F')
+
+'''
+Output:-
+Enter student name: Rohit
+Enter marks in subject 1: 98
+Enter marks in subject 2: 96
+Enter marks in subject 3: 94
+Enter marks in subject 4: 92
+Enter marks in subject 5: 95
+Grade of Rohit is:
+O
+'''

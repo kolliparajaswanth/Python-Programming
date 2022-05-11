@@ -1,12 +1,9 @@
 # Sum of two numbers using command line arguments
-
-import sys
-a = int(sys.argv[1])
-b = int(sys.argv[2])
-print(a+b)
+a = int(input("a= "))
+b = int(input("b= "))
+print("Addition of {} and {} is {}".format(a,b,a+b))
 
 '''
-Output:-
-rohit@rohit-ThinkPad-T570:~/Desktop/Python$ /bin/python3 /home/rohit/Desktop/Python/1.py 5 5 
-10
-'''
+a= 5
+b= 9
+Addition of 5 and 9 is 14   '''

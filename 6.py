@@ -14,4 +14,6 @@ for num in range(3, 100):
     if i is not num:
         sum += num
 
-print('sum of all prime numbers upto 100 is',sum)
+print('Sum of all prime numbers upto 100 is', sum)
+
+# Output:- Sum of all prime numbers upto 100 is 1060

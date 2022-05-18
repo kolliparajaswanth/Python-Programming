@@ -1,16 +1,17 @@
+# Cumulative product of list of numbers
+
 def cummulative_product(arglist):
-    p = 1
+    num = 1
     for i in arglist:
-        p *= i
-        print(p)
+        num *= i
+        print(num)
 
-
-list = []
+listr = []
 n = int(input('Enter no.of elements: '))
 for j in range(0, n):
     ele = int(input())
 
-    list.append(ele)
+    listr.append(ele)
 print('Cumulative product of given list:')
 cummulative_product(list)
 

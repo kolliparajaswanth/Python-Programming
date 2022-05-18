@@ -6,6 +6,7 @@ def cummulative_product(arglist):
         num *= i
         print(num)
 
+
 listr = []
 n = int(input('Enter no.of elements: '))
 for j in range(0, n):

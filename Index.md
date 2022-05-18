@@ -8,3 +8,8 @@
 + f - Display decimal equivalents of 1,1/2,1/3,1/4.......1/10 using for loop
 + g - Write a program to find sum of all prime numbers upto 100
 + h - Cumulative product of list of numbers
++ i - NULL
++ j - NULL
++ k - NULL
++ l - String after removing vowels from given string
++ m - Length of string using recursion & checking number is palindrome or not

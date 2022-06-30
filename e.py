@@ -7,7 +7,7 @@ s3 = int(input('Enter marks in subject 3: '))
 s4 = int(input('Enter marks in subject 4: '))
 s5 = int(input('Enter marks in subject 5: '))
 avg = (s1+s2+s3+s4+s5)/5
-print('Grade of', name, 'is:')
+print('Grade of', name, 'is:',end = ' ')
 if avg >= 90:
     print('O')
 elif avg >= 80:

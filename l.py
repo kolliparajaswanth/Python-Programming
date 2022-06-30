@@ -1,4 +1,3 @@
-# String after removing vowels from given string
 
 
 def remove_vowel(string):

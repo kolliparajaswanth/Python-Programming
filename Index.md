@@ -12,4 +12,6 @@
 + j - Basic math operations using packages
 + k - Find GCD and LCD using math module
 + l - String after removing vowels from given string
-+ m - NULL
++ m - Length of string using recursion & check given number is palindrome or not
++ n - Ball collide 
++ o - Mean, Mode, Median

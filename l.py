@@ -1,5 +1,3 @@
-
-
 def remove_vowel(string):
     vowels = ['a', 'e', 'i', 'o', 'u']
     withnovowels = [ele for ele in string if ele.lower() not in vowels]

@@ -1,6 +1,11 @@
-# 3.Explain about expressions in python and write about types of expressions and give an example program.
+# 3.Explain about expressions in python and write about types of expressions and give 
+an example program.
 
-An expression is a combination of operators and operands that is interpreted to produce some other value. In any programming language, an expression is evaluated as per the precedence of its operators. So that if there is more than one operator in an expression, their precedence decides which operation will be performed first. We have many different types of expressions in Python.
+An expression is a combination of operators and operands that is interpreted to produce 
+some other value. In any programming language, an expression is evaluated as per the 
+precedence of its operators. So that if there is more than one operator in an expression, 
+their precedence decides which operation will be performed first. We have many different 
+types of expressions in Python.
 
 1. Constant Expressions: These are the expressions that have constant values only.
 # Constant Expressions
@@ -10,7 +15,10 @@ print(x)
 # Output
 16.3
 
-2. Arithmetic Expressions: An arithmetic expression is a combination of numeric values, operators, and sometimes parenthesis. The result of this type of expression is also a numeric value. The operators used in these expressions are arithmetic operators like addition, subtraction, etc
+2. Arithmetic Expressions: An arithmetic expression is a combination of numeric values, 
+operators, and sometimes parenthesis. The result of this type of expression is also a 
+numeric value. The operators used in these expressions are arithmetic operators like 
+addition, subtraction, etc
 # Arithmetic Expressions
 x = 40
 y = 12
@@ -31,7 +39,8 @@ print(div)
 480
 3.3333333333333335
 
-3. Integral Expressions: These are the kind of expressions that produce only integer results after all computations and type conversions.
+3. Integral Expressions: These are the kind of expressions that produce only integer 
+results after all computations and type conversions.
 # Integral Expressions
 a = 13
 b = 12.0
@@ -42,7 +51,8 @@ print(c)
 # Output
 25
 
-4. Floating Expressions: These are the kind of expressions which produce floating point numbers as result after all computations and type conversions.
+4. Floating Expressions: These are the kind of expressions which produce floating point 
+numbers as result after all computations and type conversions.
 # Floating Expressions
 a = 13
 b = 5
@@ -53,7 +63,10 @@ print(c)
 # Output
 2.6
 
-5. Relational Expressions: In these types of expressions, arithmetic expressions are written on both sides of relational operator (> , < , >= , <=). Those arithmetic expressions are evaluated first, and then compared as per relational operator and produce a boolean output in the end. These expressions are also called Boolean expressions.
+5. Relational Expressions: In these types of expressions, arithmetic expressions are 
+written on both sides of relational operator (> , < , >= , <=). Those arithmetic 
+expressions are evaluated first, and then compared as per relational operator and 
+produce a boolean output in the end. These expressions are also called Boolean expressions.
 # Relational Expressions
 a = 21
 b = 13
@@ -66,7 +79,8 @@ print(p)
 # Output
 True
 
-6. Logical Expressions: These are kinds of expressions that result in either True or False. It basically specifies one or more conditions.
+6. Logical Expressions: These are kinds of expressions that result in either 
+True or False. It basically specifies one or more conditions.
 P = (10 == 9)
 Q = (7 > 5)
 
@@ -84,7 +98,8 @@ False
 True
 True
 
-7. Bitwise Expressions: These are the kind of expressions in which computations are performed at bit level.
+7. Bitwise Expressions: These are the kind of expressions in which computations are 
+performed at bit level.
 # Bitwise Expressions
 a = 12
 
@@ -96,7 +111,8 @@ print(x, y)
 # Output
 3 24
 
-8. Combinational Expressions: We can also use different types of expressions in a single expression, and that will be termed as combinational expressions.
+8. Combinational Expressions: We can also use different types of expressions in a 
+single expression, and that will be termed as combinational expressions.
 # Combinational Expressions
 a = 16
 b = 12

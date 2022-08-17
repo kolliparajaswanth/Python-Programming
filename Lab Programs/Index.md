@@ -15,3 +15,10 @@
 + m - Length of string using recursion & check given number is palindrome or not
 + n - Ball collide 
 + o - Mean, Mode, Median
++ p - String length in Dictionary
++ q - Multiple errors with one except statement
++ r - User-defined Exception 
++ s - Print each line of a file in reverse
++ t - Mean & S.D of data in excel file using pandas package in jupiter notebook
++ u - Name & Marks of student using classes in list
++ v - Premium for Vehicles (Attributes & Methods)

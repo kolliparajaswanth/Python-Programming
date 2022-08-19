@@ -55,13 +55,8 @@ v.setId(input("Enter Vehicle ID: "))
 v.setType(input("Enter Vehicle Type: "))
 v.setCost(int(input("Enter Vehicle Cost: ")))
 
-
 v.calculatePremium()
-
-
 print("----------------------------------------")
-
-
 print("Vehicle ID: ", v.getId())
 print("Vehicle Type: ", v.getType())
 print("Vehicle Cost: ", v.getCost())

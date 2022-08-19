@@ -4,7 +4,7 @@ import sys
 class Vehicle:
 
     vehicleType = ["Two-Wheeler", "Four-Wheeler"]
-    p = [2, 6]
+    percentage = [2, 6]
 
     def __init__(self):
         self.__id = None
@@ -44,7 +44,7 @@ class Vehicle:
     def calculatePremium(self):
         t = self.getType()
         i = Vehicle.vehicleType.index(t)
-        per = Vehicle.p[i]
+        per = Vehicle.percentage[i]
         ct = self.getCost()
         amount = ct*(per/100)
         self.setPremium(amount)

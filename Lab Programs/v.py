@@ -74,7 +74,7 @@ Enter Vehicle ID: 1HGCM82633A004352
 Enter Vehicle Type: Four-Wheeler
 Enter Vehicle Cost: 15782000
 ----------------------------------------
-Vehicle ID:  946920.0
+Vehicle ID:  1HGCM82633A004352
 Vehicle Type:  Four-Wheeler
 Vehicle Cost:  15782000
 Premium amount:  946920.0
